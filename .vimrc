@@ -6,3 +6,4 @@ set shiftwidth=4
 set ruler
 set incsearch
 set mouse=a
+syntax on
